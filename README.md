@@ -1,16 +1,22 @@
-### Hi there 👋
+# About me:
 
-<!--
-**anaprodriguesuk/anaprodriguesuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## _Hello there, I am Ana_ 👋
 
-Here are some ideas to get you started:
+### I am an enthusiastic learner who loves challenges 🧠. 
+### Currently, I am enrolled in a Hyperiondev Bootcamp for Software Engineering 🐍.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Here are some skills that I have been developing** :
+
+- Version control with GitHub
+- Debugging techniques and tools
+- Software design patterns and principles
+- Agile methodologies and unit testing
+- Application development with Django and SQL
+
+## Contact info:
+
+ 📧 You can reach me via email: apaularodrrigues@gmail.com
+ or connect with me icon= "linkedin" (linkedin.com/in/ana-rodrigues-943392232)
+
+
+ 
