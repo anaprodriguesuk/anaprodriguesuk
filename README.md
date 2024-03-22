@@ -5,7 +5,7 @@
 ### I am an enthusiastic learner who loves challenges 🧠. 
 ### Currently, I am enrolled in a Hyperiondev Bootcamp for Software Engineering 🐍.
 
->>> **Here are some skills that I have been developing** :
+> **Here are some skills that I have been developing** :
 
 - Version control with GitHub
 - Debugging techniques and tools
@@ -16,7 +16,8 @@
 ## Contact info:
 
  📧 You can reach me via email: apaularodrrigues@gmail.com
- Connect with me: [linkedin.com/in/ana-rodrigues-943392232]
+ 
+ Connect with me: [linkedin.com/in/ana-rodrigues-943392232] 
 
 
  
