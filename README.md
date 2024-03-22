@@ -1,6 +1,6 @@
 ## About me:
 
-## _Hello there, I am Ana_ 👋
+##£ _Hello there, I am Ana_ 👋
 
 ### I am an enthusiastic learner who loves challenges 🧠. Currently, I am enrolled in a Hyperiondev Bootcamp for Software Engineering 🐍.
 
@@ -16,7 +16,7 @@
 
  📧 You can reach me via email: apaularodrrigues@gmail.com
  
- Connect with me: [linkedin.com/in/ana-rodrigues-943392232] 
+ Connect with me: [ linkedin.com/in/ana-rodrigues-943392232 ] 
 
 
  
