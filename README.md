@@ -1,9 +1,8 @@
-# About me:
+## About me:
 
 ## _Hello there, I am Ana_ 👋
 
-### I am an enthusiastic learner who loves challenges 🧠. 
-### Currently, I am enrolled in a Hyperiondev Bootcamp for Software Engineering 🐍.
+### I am an enthusiastic learner who loves challenges 🧠. Currently, I am enrolled in a Hyperiondev Bootcamp for Software Engineering 🐍.
 
 > **Here are some skills that I have been developing** :
 
