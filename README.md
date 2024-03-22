@@ -18,7 +18,7 @@
  
  ## Links:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](linkedin.com/in/ana-rodrigues-943392232)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ana-rodrigues-943392232/)
  
 
 
