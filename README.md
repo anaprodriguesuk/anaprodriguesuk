@@ -16,7 +16,10 @@
 
  📧 You can reach me via email: apaularodrrigues@gmail.com
  
- Connect with me: (linkedin.com/in/ana-rodrigues-943392232) 
+ ## Links:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=LinkedIn&logoColor=white)](linkedin.com/in/ana-rodrigues-943392232)
+ 
 
 
  
