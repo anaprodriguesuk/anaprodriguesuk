@@ -25,7 +25,7 @@ Alongside my studies, I also work as a **Freelance Software Tester** at **uTest*
 ## 📂 Selected Projects
 
 ### 🧪 Software Testing Portfolio
-- **[uTest Freelance Work Samples](#)**  
+- **[uTest Freelance Work Samples](https://github.com/anaprodriguesuk/testing-portfolio)**  
   Samples of bug reports, test cases, and exploratory testing from real-world freelance projects. *(Private projects — summaries available upon request.)*
 
 ### 🐍 Python Projects
