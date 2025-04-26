@@ -36,7 +36,7 @@ Alongside my studies, I also work as a **Freelance Software Tester** at **uTest*
   A basic Django CRUD application with SQLite integration.
 
 ### 🌱 Learning Projects
-- **[Python Mini Challenges](https://github.com/anaprodriguesuk/python-mini-challenges)**  
+- **[Python Mini Challenges](https://github.com/anaprodriguesuk/codingTasks)**  
   Small coding challenges and exercises completed during bootcamp practice.
 
 ---
