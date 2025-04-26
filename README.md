@@ -22,6 +22,23 @@ Alongside my studies, I also work as a **Freelance Software Tester** at **uTest*
 ![Agile](https://img.shields.io/badge/Agile-02569B?style=for-the-badge&logo=agile&logoColor=white)
 ![Testing](https://img.shields.io/badge/Testing-6DB33F?style=for-the-badge&logo=testing&logoColor=white)
 
+## 📂 Selected Projects
+
+### 🧪 Software Testing Portfolio
+- **[uTest Freelance Work Samples](#)**  
+  Samples of bug reports, test cases, and exploratory testing from real-world freelance projects. *(Private projects — summaries available upon request.)*
+
+### 🐍 Python Projects
+- **[Simple Python Calculator](https://github.com/anaprodriguesuk/simple-python-calculator)**  
+  A basic Python calculator applying functions and user input handling.
+
+- **[Django Web App](https://github.com/anaprodriguesuk/django-web-app)**  
+  A basic Django CRUD application with SQLite integration.
+
+### 🌱 Learning Projects
+- **[Python Mini Challenges](https://github.com/anaprodriguesuk/python-mini-challenges)**  
+  Small coding challenges and exercises completed during bootcamp practice.
+
 ---
 
 ## 📫 Let's Connect
