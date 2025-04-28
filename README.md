@@ -30,7 +30,6 @@ Alongside my studies, I also work as a **Freelance Software Tester** at **uTest*
 
 ### 🐍 Python Projects
 - **[Simple Python Calculator](https://github.com/anaprodriguesuk/simple_calculator)**  
-- **[Simple Python Calculator]()**  
   A basic Python calculator applying functions and user input handling.
 
 - **[Django Web App](https://github.com/anaprodriguesuk/Sticky_notes-app)**  
