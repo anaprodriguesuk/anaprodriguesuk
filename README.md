@@ -29,7 +29,8 @@ Alongside my studies, I also work as a **Freelance Software Tester** at **uTest*
   Samples of bug reports, test cases, and exploratory testing from real-world freelance projects. *(Private projects — summaries available upon request.)*
 
 ### 🐍 Python Projects
-- **[Simple Python Calculator](https://github.com/anaprodriguesuk/simple-python-calculator)**  
+- **[Simple Python Calculator](https://github.com/anaprodriguesuk/simple_calculator)**  
+- **[Simple Python Calculator]()**  
   A basic Python calculator applying functions and user input handling.
 
 - **[Django Web App](https://github.com/anaprodriguesuk/Sticky_notes-app)**  
